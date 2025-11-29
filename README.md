@@ -29,5 +29,6 @@
 
  **<h3 align="center">Skills</h3>**
 
+<center>
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: center;"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="28" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="28" alt="Python" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" height="28" alt="Bootstrap" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="28" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" height="28" alt="FastAPI" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="28" alt="MySQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="28" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" height="28" alt="OpenAI" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?logo=azure-devops&logoColor=white" height="28" alt="Azure DevOps" style="margin-right: 4px"></div>
-
+</center>
